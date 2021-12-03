@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\bin\Debug\netcoreapp3.1\ExercicioPratico.exe
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\bin\Debug\netcoreapp3.1\ExercicioPratico.deps.json
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\bin\Debug\netcoreapp3.1\ExercicioPratico.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\bin\Debug\netcoreapp3.1\ExercicioPratico.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\bin\Debug\netcoreapp3.1\ExercicioPratico.dll
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\bin\Debug\netcoreapp3.1\ExercicioPratico.pdb
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\obj\Debug\netcoreapp3.1\ExercicioPratico.csprojAssemblyReference.cache
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\obj\Debug\netcoreapp3.1\ExercicioPratico.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\obj\Debug\netcoreapp3.1\ExercicioPratico.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\obj\Debug\netcoreapp3.1\ExercicioPratico.dll
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\obj\Debug\netcoreapp3.1\ExercicioPratico.pdb
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\obj\Debug\netcoreapp3.1\ExercicioPratico.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\obj\Debug\netcoreapp3.1\ExercicioPratico.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Projetos\GIT\ExercicioPratico\ExercicioPratico\obj\Debug\netcoreapp3.1\ExercicioPratico.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQBkZTzqvmLH1vj8bPLwGTuYIMMWO+iiySckgocjQ1AQabNafSpnOVBjOq7nSXPEW34OvRTPgIDLKieygIgJYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PICHAU\\Desktop\\Projetos\\GIT\\ExercicioPratico\\ExercicioPratico\\ExercicioPratico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PICHAU\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
